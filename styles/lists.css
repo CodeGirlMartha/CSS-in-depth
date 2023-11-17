@@ -1,0 +1,6 @@
+ul li{
+    list-style-type: circle;
+    list-style-image: url(../images/dote\ image.jpg);
+    list-style-position: inside;
+    list-style: square inside url(../images/dote\ image.jpg);
+}
